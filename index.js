@@ -20,3 +20,7 @@ function inc(n) {
 function dec(n) {
   return --n
 }
+function preserveDecimal(n) {
+  parseFloat(n)
+  return n
+}
