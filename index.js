@@ -1,1 +1,1 @@
-function makeInt()
+function makeInt() {
