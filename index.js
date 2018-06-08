@@ -1,5 +1,6 @@
 function makeInt(n) {
 parseInt(n)  
+return n
 }
 function add(a, b) {
   return a + b
